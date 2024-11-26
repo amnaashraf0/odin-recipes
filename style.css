@@ -1,6 +1,10 @@
+body{
+    background-color: pink;
+}
+
 .title{
     text-align: center;
-    color: blue;
+    color: darkorchid;
 }
 
 .recipe{
